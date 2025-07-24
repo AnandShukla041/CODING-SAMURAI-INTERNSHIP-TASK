@@ -42,10 +42,3 @@ city_sales.plot(kind='pie', autopct='%1.1f%%')
 plt.title('Total Sales by City')
 plt.show()
 
-HEAD
-
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/AnandShukla041/CODING-SAMURAI-INTERNSHIP-TASK.git
-   cd CODING-SAMURAI-INTERNSHIP-TASK 7776ad5 (Saved local changes before rebase)
